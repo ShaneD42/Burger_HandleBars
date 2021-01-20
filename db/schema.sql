@@ -1,6 +1,4 @@
-/*-----------DROP DATABASE----------*/
-DROP DATABASE IF EXISTS burgers_db ;
-
+  
 /*----------CREAT DATABASE----------*/
 
 CREATE DATABASE burgers_db;
