@@ -1,0 +1,52 @@
+body{
+    background-color: #f6da63;
+}
+#eat{
+    background: #da2d2d;
+    padding: 5px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 50%;
+    font-family: 'Indie Flower', cursive;
+}
+#done{
+    background: #eb8242;
+    padding: 5px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 20px;
+
+    font-family: 'Indie Flower', cursive;
+}
+
+img{
+    width: 328px;
+    
+    position: right;
+}
+
+.jumbotron{
+  
+    background-color: #f6da63;
+    
+    margin-bottom: 6%;
+    
+    margin-top: .5%;
+
+    font-family: 'Indie Flower', cursive;
+
+    border: solid;
+
+    border-color: white;
+}
+div.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+    background:black;
+}
+.btn-info{
+    background: rgb(0 0 0 / 28%);
+    
+}
