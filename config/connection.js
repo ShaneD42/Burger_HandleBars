@@ -28,9 +28,7 @@ if (process.env.JAWSDB_URL){
 
 connection.connect();
 
-connection.on('error', function(err) {
-  console.log("[mysql error]",err);
-});
+
 
 // Export connection for our ORM to use.
 module.exports = connection;
