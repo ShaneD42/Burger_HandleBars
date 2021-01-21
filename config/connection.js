@@ -26,7 +26,7 @@ if (process.env.JAWSDB_URL){
 //   console.log(`connected to  Mysql server`);
 // });
 
-connection.connect();
+connection.connect(console.log("im connected!"));
 
 
 
